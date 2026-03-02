@@ -8,7 +8,7 @@ I specialize in writing gas-optimized, secure smart contracts and diving deep in
 ### 🛠 Technical Stack
 * **Languages:** Solidity, Yul (Assembly) / huff
 * **Frameworks:** Foundry (Advanced)
-* **Specialties:** EIP-1153 (Transient Storage), Gas Optimization, Security Research
+* **Specialties:** EIP-1153 (Transient Storage), Gas Optimization, Security Research.
 
 ---
 
