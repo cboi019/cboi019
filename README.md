@@ -12,12 +12,6 @@ I specialize in writing gas-optimized, secure smart contracts and diving deep in
 
 ---
 
-### 🚀 Current Research & Contributions
-* **[Gas Optimization]** Proposed EIP-1153 `TSTORE` reentrancy guard patterns for Euler Finance (EVC), reducing gas costs by **~60%** compared to traditional `SSTORE`.
-* **[Salva Nexus]** Building low-level infrastructure for scalable, gas efficient blockchain applications.
-
----
-
 ### 📊 My EVM Labs
 | Project | Focus | Tech |
 | :--- | :--- | :--- |
