@@ -7,7 +7,7 @@ I specialize in writing gas-optimized, secure smart contracts and diving deep in
 
 Blockchain Developer — Building Salva Protocol
 
-🔗 [Salva Protocol](https://github.com/salva-Nexus/SALVA-V2) — On-chain payment infrastructure for Nigeria
+🔗 [Salva Protocol GITHUB](https://github.com/salva-Nexus/SALVA-V2) — On-chain payment infrastructure for Nigeria
 ---
 
 ### 🛠 Technical Stack
