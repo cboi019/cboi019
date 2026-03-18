@@ -3,6 +3,11 @@
 
 I specialize in writing gas-optimized, secure smart contracts and diving deep into the EVM. I am currently building **Salva** and contributing to high-impact DeFi protocols.
 
+## Charles Okoronkwo
+
+Blockchain Developer — Building Salva Protocol
+
+🔗 [Salva Protocol](https://github.com/salva-Nexus/SALVA-V2) — On-chain payment infrastructure for Nigeria
 ---
 
 ### 🛠 Technical Stack
