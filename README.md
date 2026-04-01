@@ -1,11 +1,13 @@
-# Hi, I'm Charles (cboi019) 🇳🇬
+# Charles (cboi) 🇳🇬
 ### Smart Contract Engineer & Low-Level EVM Specialist
 
-I specialize in writing gas-optimized, secure smart contracts and diving deep into the EVM. I am currently building **Salva** and contributing to high-impact DeFi protocols.
+I find solution..
 
 Blockchain Developer — Building Salva Protocol
 
-🔗 [Salva Protocol GITHUB](https://github.com/salva-Nexus/SALVA-V2) — On-chain payment infrastructure for Nigeria
+🔗 [Salva Protocol GITHUB](https://github.com/salva-Nexus/SALVA-V2) 
+— On-chain payment infrastructure for Nigeria
+- Salva Naming Service
 ---
 
 ### 🛠 Technical Stack
