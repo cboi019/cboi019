@@ -5,7 +5,7 @@ I find solution..
 
 Blockchain Developer — Building Salva Protocol
 
-🔗 [Salva Protocol GITHUB](https://github.com/salva-Nexus/SALVA-V2) 
+🔗 [Salva Protocol GITHUB](https://github.com/salva-Nexus/) 
 — On-chain payment infrastructure for Nigeria
 - Salva Naming Service
 ---
